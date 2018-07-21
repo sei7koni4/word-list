@@ -7,21 +7,59 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE1D30581F1D08A200EC4951 /* View2Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1D30571F1D08A200EC4951 /* View2Controller.swift */; };
+		FE1D305A1F1D08B100EC4951 /* View3Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1D30591F1D08B100EC4951 /* View3Controller.swift */; };
+		FE1D305C1F1D08C100EC4951 /* View4Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1D305B1F1D08C100EC4951 /* View4Controller.swift */; };
+		FE33BB8620B02ED40048EABB /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FE33BB8520B02ED40048EABB /* GoogleService-Info.plist */; };
+		FE84A4D7202F0341009C63A1 /* CustomCell2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE84A4D6202F0341009C63A1 /* CustomCell2.swift */; };
 		FEDEDD131F077F7300D14DBB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEDEDD121F077F7300D14DBB /* AppDelegate.swift */; };
-		FEDEDD151F077F7300D14DBB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEDEDD141F077F7300D14DBB /* ViewController.swift */; };
-		FEDEDD181F077F7300D14DBB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEDEDD161F077F7300D14DBB /* Main.storyboard */; };
+		FEDEDD151F077F7300D14DBB /* View1Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEDEDD141F077F7300D14DBB /* View1Controller.swift */; };
+		FEDEDD181F077F7300D14DBB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEDEDD161F077F7300D14DBB /* Main.storyboard */; settings = {ASSET_TAGS = (boxedit, ); }; };
 		FEDEDD1A1F077F7300D14DBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEDEDD191F077F7300D14DBB /* Assets.xcassets */; };
 		FEDEDD1D1F077F7300D14DBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEDEDD1B1F077F7300D14DBB /* LaunchScreen.storyboard */; };
+		FEE510F21FADCB4500A5A65D /* View11Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE510F11FADCB4500A5A65D /* View11Controller.swift */; };
+		FEE510F41FADCB7B00A5A65D /* View12Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE510F31FADCB7B00A5A65D /* View12Controller.swift */; };
+		FEE510F61FADCBBD00A5A65D /* View13Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE510F51FADCBBD00A5A65D /* View13Controller.swift */; };
+		FEE510F81FADCBEC00A5A65D /* View14Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE510F71FADCBEC00A5A65D /* View14Controller.swift */; };
+		FEE510FA1FADCC0600A5A65D /* View15Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE510F91FADCC0600A5A65D /* View15Controller.swift */; };
+		FEE510FC1FADCC2000A5A65D /* View16Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE510FB1FADCC2000A5A65D /* View16Controller.swift */; };
+		FEE510FE1FADCC3C00A5A65D /* View17Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE510FD1FADCC3C00A5A65D /* View17Controller.swift */; };
+		FEF8EC8C1F232D04000C39ED /* View5Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF8EC8B1F232D04000C39ED /* View5Controller.swift */; };
+		FEF8EC8E1F232D5B000C39ED /* View6Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF8EC8D1F232D5B000C39ED /* View6Controller.swift */; };
+		FEF8EC901F232D9F000C39ED /* View7Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF8EC8F1F232D9F000C39ED /* View7Controller.swift */; };
+		FEF8EC921F232DAC000C39ED /* View8Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF8EC911F232DAC000C39ED /* View8Controller.swift */; };
+		FEF8EC941F232E2E000C39ED /* View9Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF8EC931F232E2E000C39ED /* View9Controller.swift */; };
+		FEF8EC961F232E3B000C39ED /* View10Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF8EC951F232E3B000C39ED /* View10Controller.swift */; };
+		FEF8EC981F2371CB000C39ED /* class1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF8EC971F2371CB000C39ED /* class1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FE1D30571F1D08A200EC4951 /* View2Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View2Controller.swift; sourceTree = "<group>"; };
+		FE1D30591F1D08B100EC4951 /* View3Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View3Controller.swift; sourceTree = "<group>"; };
+		FE1D305B1F1D08C100EC4951 /* View4Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = View4Controller.swift; path = ../View4Controller.swift; sourceTree = "<group>"; };
+		FE33BB8520B02ED40048EABB /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		FE84A4D6202F0341009C63A1 /* CustomCell2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCell2.swift; sourceTree = "<group>"; };
 		FEDEDD0F1F077F7300D14DBB /* 単語共有暗記.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "単語共有暗記.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEDEDD121F077F7300D14DBB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FEDEDD141F077F7300D14DBB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FEDEDD141F077F7300D14DBB /* View1Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View1Controller.swift; sourceTree = "<group>"; };
 		FEDEDD171F077F7300D14DBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FEDEDD191F077F7300D14DBB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEDEDD1C1F077F7300D14DBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FEDEDD1E1F077F7400D14DBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEE510F11FADCB4500A5A65D /* View11Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View11Controller.swift; sourceTree = "<group>"; };
+		FEE510F31FADCB7B00A5A65D /* View12Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View12Controller.swift; sourceTree = "<group>"; };
+		FEE510F51FADCBBD00A5A65D /* View13Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View13Controller.swift; sourceTree = "<group>"; };
+		FEE510F71FADCBEC00A5A65D /* View14Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View14Controller.swift; sourceTree = "<group>"; };
+		FEE510F91FADCC0600A5A65D /* View15Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View15Controller.swift; sourceTree = "<group>"; };
+		FEE510FB1FADCC2000A5A65D /* View16Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View16Controller.swift; sourceTree = "<group>"; };
+		FEE510FD1FADCC3C00A5A65D /* View17Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View17Controller.swift; sourceTree = "<group>"; };
+		FEF8EC8B1F232D04000C39ED /* View5Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View5Controller.swift; sourceTree = "<group>"; };
+		FEF8EC8D1F232D5B000C39ED /* View6Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View6Controller.swift; sourceTree = "<group>"; };
+		FEF8EC8F1F232D9F000C39ED /* View7Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View7Controller.swift; sourceTree = "<group>"; };
+		FEF8EC911F232DAC000C39ED /* View8Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View8Controller.swift; sourceTree = "<group>"; };
+		FEF8EC931F232E2E000C39ED /* View9Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View9Controller.swift; sourceTree = "<group>"; };
+		FEF8EC951F232E3B000C39ED /* View10Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View10Controller.swift; sourceTree = "<group>"; };
+		FEF8EC971F2371CB000C39ED /* class1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = class1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,11 +93,30 @@
 			isa = PBXGroup;
 			children = (
 				FEDEDD121F077F7300D14DBB /* AppDelegate.swift */,
-				FEDEDD141F077F7300D14DBB /* ViewController.swift */,
-				FEDEDD161F077F7300D14DBB /* Main.storyboard */,
 				FEDEDD191F077F7300D14DBB /* Assets.xcassets */,
 				FEDEDD1B1F077F7300D14DBB /* LaunchScreen.storyboard */,
 				FEDEDD1E1F077F7400D14DBB /* Info.plist */,
+				FEDEDD161F077F7300D14DBB /* Main.storyboard */,
+				FEDEDD141F077F7300D14DBB /* View1Controller.swift */,
+				FE1D30571F1D08A200EC4951 /* View2Controller.swift */,
+				FE1D30591F1D08B100EC4951 /* View3Controller.swift */,
+				FE1D305B1F1D08C100EC4951 /* View4Controller.swift */,
+				FEF8EC8B1F232D04000C39ED /* View5Controller.swift */,
+				FEF8EC8D1F232D5B000C39ED /* View6Controller.swift */,
+				FEF8EC8F1F232D9F000C39ED /* View7Controller.swift */,
+				FEF8EC911F232DAC000C39ED /* View8Controller.swift */,
+				FEF8EC931F232E2E000C39ED /* View9Controller.swift */,
+				FEF8EC951F232E3B000C39ED /* View10Controller.swift */,
+				FE84A4D6202F0341009C63A1 /* CustomCell2.swift */,
+				FEE510F11FADCB4500A5A65D /* View11Controller.swift */,
+				FEE510F31FADCB7B00A5A65D /* View12Controller.swift */,
+				FEE510F51FADCBBD00A5A65D /* View13Controller.swift */,
+				FEE510F71FADCBEC00A5A65D /* View14Controller.swift */,
+				FEE510F91FADCC0600A5A65D /* View15Controller.swift */,
+				FEE510FB1FADCC2000A5A65D /* View16Controller.swift */,
+				FEE510FD1FADCC3C00A5A65D /* View17Controller.swift */,
+				FEF8EC971F2371CB000C39ED /* class1.swift */,
+				FE33BB8520B02ED40048EABB /* GoogleService-Info.plist */,
 			);
 			path = "単語共有暗記";
 			sourceTree = "<group>";
@@ -90,6 +147,10 @@
 		FEDEDD071F077F7300D14DBB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					boxedit,
+					cell,
+				);
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "小西星七";
@@ -124,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FEDEDD1D1F077F7300D14DBB /* LaunchScreen.storyboard in Resources */,
+				FE33BB8620B02ED40048EABB /* GoogleService-Info.plist in Resources */,
 				FEDEDD1A1F077F7300D14DBB /* Assets.xcassets in Resources */,
 				FEDEDD181F077F7300D14DBB /* Main.storyboard in Resources */,
 			);
@@ -136,8 +198,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEDEDD151F077F7300D14DBB /* ViewController.swift in Sources */,
+				FEF8EC941F232E2E000C39ED /* View9Controller.swift in Sources */,
+				FEF8EC981F2371CB000C39ED /* class1.swift in Sources */,
+				FEF8EC8C1F232D04000C39ED /* View5Controller.swift in Sources */,
+				FE84A4D7202F0341009C63A1 /* CustomCell2.swift in Sources */,
+				FEDEDD151F077F7300D14DBB /* View1Controller.swift in Sources */,
+				FEE510F61FADCBBD00A5A65D /* View13Controller.swift in Sources */,
+				FEE510F81FADCBEC00A5A65D /* View14Controller.swift in Sources */,
+				FEE510FA1FADCC0600A5A65D /* View15Controller.swift in Sources */,
+				FEE510FC1FADCC2000A5A65D /* View16Controller.swift in Sources */,
+				FEF8EC961F232E3B000C39ED /* View10Controller.swift in Sources */,
+				FE1D30581F1D08A200EC4951 /* View2Controller.swift in Sources */,
+				FE1D305A1F1D08B100EC4951 /* View3Controller.swift in Sources */,
+				FEE510F21FADCB4500A5A65D /* View11Controller.swift in Sources */,
+				FEF8EC921F232DAC000C39ED /* View8Controller.swift in Sources */,
+				FE1D305C1F1D08C100EC4951 /* View4Controller.swift in Sources */,
+				FEF8EC8E1F232D5B000C39ED /* View6Controller.swift in Sources */,
+				FEF8EC901F232D9F000C39ED /* View7Controller.swift in Sources */,
 				FEDEDD131F077F7300D14DBB /* AppDelegate.swift in Sources */,
+				FEE510F41FADCB7B00A5A65D /* View12Controller.swift in Sources */,
+				FEE510FE1FADCC3C00A5A65D /* View17Controller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,7 +340,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "単語共有暗記/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tango.kyouyuu.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -272,7 +352,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "単語共有暗記/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tango.kyouyuu.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -297,6 +377,7 @@
 				FEDEDD231F077F7400D14DBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

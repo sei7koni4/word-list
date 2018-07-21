@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  単語共有暗記
 //
-//  Created by 小西佳子 on 2017/07/01.
+//  Created by 小西星七 on 2017/07/01.
 //  Copyright © 2017年 小西星七. All rights reserved.
 //
 
